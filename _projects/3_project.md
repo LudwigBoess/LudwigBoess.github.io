@@ -1,12 +1,15 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Turbulence
+description: 
+img: assets/img/project_3/turbulence_cropped.png
 importance: 3
 category: work
 ---
+
+Injection of turbulence by merger shocks and its impact on re-acceleration of Cosmic Rays and amplification of magnetic fields
+
+***
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

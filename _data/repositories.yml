@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - LudwigBoess
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - LudwigBoess/GadgetIO.jl
+  - LudwigBoess/GadgetUnits.jl
+  - LudwigBoess/SPHKernels.jl
+  - LudwigBoess/SPHtoGrid.jl
+  - LudwigBoess/DSAModels.jl
+  - LudwigBoess/SynchrotronKernel.jl
+
+publication_repos:
+  - LudwigBoess/2207.05087
