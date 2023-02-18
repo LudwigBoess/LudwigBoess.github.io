@@ -60,10 +60,6 @@ I then evolve the distribution function at **every** timestep of the simulation.
 
 ---
 
-I mainly focus on studying **radio relics** and **radio halos** in galaxy clusters.
-For this I perform zoom-in simulations of clusters as used in [Bonafede et. al. (2011)](https://ui.adsabs.harvard.edu/abs/2011MNRAS.418.2234B/abstract) which include my CR model in different configurations of the aforementioned equation.
-I am currently working on the related publication where I study the time evoltion of the brightness of the radio halo due to injection of turbulence by shocks and the detailled study of radio relics and how they can be deformed by interaction with the surrounding medium.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/project_1/cluster_zoom.png" title="SLOW" class="img-fluid rounded z-depth-1" %}
@@ -73,11 +69,11 @@ I am currently working on the related publication where I study the time evoltio
     Zoom-in simulation of a galaxy cluster with comparisons to observations.
 </div>
 
----
+I mainly focus on studying **radio relics** and **radio halos** in galaxy clusters.
+For this I perform zoom-in simulations of clusters as used in [Bonafede et. al. (2011)](https://ui.adsabs.harvard.edu/abs/2011MNRAS.418.2234B/abstract) which include my CR model in different configurations of the aforementioned equation.
+I am currently working on the related publication where I study the time evoltion of the brightness of the radio halo due to injection of turbulence by shocks and the detailled study of radio relics and how they can be deformed by interaction with the surrounding medium.
 
-As part of the [Localization](https://localization.ias.universite-paris-saclay.fr) project we performed a simulation of a $L \sim 740$ Mpc box with constrained initial conditions, which contains my CR model.
-This allows us to obtain a box around the Milky Way which closely resembles the observed local universe.
-In this collaboration I lead efforts to study predictions for synchrotron and $\gamma$-ray emission from the local cosmic web.
+---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -87,3 +83,7 @@ In this collaboration I lead efforts to study predictions for synchrotron and $\
 <div class="caption">
     Full-Sky projection of the synchrotron emission of the Local Universe.
 </div>
+
+As part of the [Localization](https://localization.ias.universite-paris-saclay.fr) project we performed a simulation of a $L \sim 740$ Mpc box with constrained initial conditions, which contains my CR model.
+This allows us to obtain a box around the Milky Way which closely resembles the observed local universe.
+In this collaboration I lead efforts to study predictions for synchrotron and $\gamma$-ray emission from the local cosmic web.
