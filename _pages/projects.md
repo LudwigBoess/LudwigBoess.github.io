@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: I work in computational astrophysics, my research is mainly focused on three key points
 nav: true
 nav_order: 1
 display_categories: [work]

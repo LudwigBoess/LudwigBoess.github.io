@@ -55,12 +55,12 @@
         - Development of an automated customer satisfaction survey (NPS) using SSIS and Python
         - Gathering and evaluating of key data concerning quality assurance, customer satisfaction and R&D
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/LudwigBoess/GadgetIO.jl">GadgetIO.jl</a>
-      year: 2017-now
-      description: Binary IO for the Tree-SPH code Gadget.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/LudwigBoess/GadgetIO.jl">GadgetIO.jl</a>
+#       year: 2017-now
+#       description: Binary IO for the Tree-SPH code Gadget.
 
 - title: Computing time awarded
   type: time_table

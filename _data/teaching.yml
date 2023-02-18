@@ -1,0 +1,21 @@
+- title: Lectures
+  type: time_table
+  contents:
+    - title: PhD - Astrophysics
+      institution: Ludwig-Maximilians-Universität München, Germany
+      year: 2020 -  now
+      description:
+        - Thesis - Cosmic Rays, Turbulence and Magnetic Fields in Galaxy Clusters.
+        - Supervised by Prof. Dr. Harald Lesch and Dr. habil. Klaus Dolag
+    - title: Masters Degree - Astrophysics
+      institution: Ludwig-Maximilians-Universität München, Germany
+      year: 2017 - 2020
+      description:
+        - Thesis - Cosmic Rays in Galaxy Clusters - An on-the-fly Fokker-Planck Solver for OpenGadget3
+        - Supervised by Dr. habil. Klaus Dolag
+    - title: Bachelors Degree - Astrophysics
+      institution: Ludwig-Maximilians-Universität München, Germany
+      year: 2014 - 2017
+      description:
+        - Thesis - Radial Orbit Instability - Analysis of geometry in unperturbed and perturbed systems
+        - Supervised by  Prof. Dr. Andreas Burker
