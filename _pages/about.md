@@ -1,25 +1,32 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate, <a href='https://www.usm.uni-muenchen.de/'>Universitäts-Sternwarte München</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office E18</p>
+    <p>Scheinerstr. 1</p>
+    <p>Munich, Germany</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate at the USM in Munich, working with cosmological MHD simulations.
+My main interest is in non-thermal processes in galaxy clusters: Cosmic Rays, Magnetic Fields and Turbulence.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I develop the Cosmic Ray model [**CRESCENDO**](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..548B/abstract) for the cosmological Tree-SPH Code **OpenGadget3**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Most of the time I run and analyze my own simulations for which I developed a number of open source [Software](/repositories/) tools.
+
+However I am also part of the [Localization](https://localization.ias.universite-paris-saclay.fr) project where we study the local universe with state-of-the-art constrained initial conditions.
+
+Aside from science I am an avid hiker. Luckily the alps are nearby!
+
+Before I went into Astrophysics I was a hobby musician, playing mainly progressive rock (you can listen to one album on [Spotify](https://open.spotify.com/artist/6bg7Ttn08YcNg55pxQz5Fr?si=daKM9MiqQpWzGMDRUThUrw)!)
