@@ -8,6 +8,10 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
+p {
+    font-size: 1.1rem;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -123,7 +127,7 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 1rem;
   a {
     color: inherit;
     &:hover {
@@ -446,7 +450,8 @@ footer.sticky-bottom {
   }
 
   .grid-sizer, .grid-item {
-    width: 250px;
+    width: 300px;
+    margin-right: 10px;
     margin-bottom: 10px;
   }
 

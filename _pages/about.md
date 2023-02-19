@@ -18,6 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+***
+
 I am a PhD candidate at the USM in Munich, working with cosmological MHD simulations.
 My main interest is in non-thermal processes in galaxy clusters: Cosmic Rays, Magnetic Fields and Turbulence.
 
