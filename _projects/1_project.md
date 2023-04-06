@@ -81,7 +81,7 @@ I am currently working on the related publication where I study the time evoltio
     </div>
 </div>
 <div class="caption">
-    Full-Sky projection of the synchrotron emission of the Local Universe.
+    Full-Sky projection of the synchrotron emission of the Local Universe (Böss et. al. (in prep.)).
 </div>
 
 As part of the [Localization](https://localization.ias.universite-paris-saclay.fr) project we performed a simulation of a $L \sim 740$ Mpc box with constrained initial conditions, which contains my CR model.
