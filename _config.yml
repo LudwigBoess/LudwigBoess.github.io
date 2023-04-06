@@ -8,7 +8,7 @@ middle_name: M.
 last_name: Böss
 email: lboess@usm.lmu.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal website of Ludwig M. Böss
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -17,10 +17,10 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: turbulence.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://ludwigboess.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/
+url: https://LudwigBoess.github.io # the base hostname & protocol for your site
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
-impressum_path: /impressum # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: /impressum/ # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Theme
