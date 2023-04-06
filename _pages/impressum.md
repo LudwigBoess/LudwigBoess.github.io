@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Impressum
-permalink: /impressum
+permalink: /impressum/
+nav: false
+nav_order: 5
 ---
 
 <div class='impressum'><p>Angaben gemäß § 5 TMG</p><p>Ludwig Böss <br> 
@@ -10,7 +12,7 @@ Mühlbaurstr. 12<br>
 </p><p> <strong>Vertreten durch: </strong><br>
 Ludwig Böss<br>
 </p><p><strong>Kontakt:</strong> <br>
-Telefon: +49-015115357827<br>
+Telefon: +49-89-2180-6885<br>
 E-Mail: <a href='mailto:ludwig.boess@outlook.de'>ludwig.boess@outlook.de</a></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
 Ludwig Böss <br> 
 Mühlbaurstr. 12<br> 
