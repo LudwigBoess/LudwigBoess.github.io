@@ -6,10 +6,10 @@ subtitle: PhD Candidate, <a href='https://www.usm.uni-muenchen.de/'>Universität
 
 profile:
   align: right
-  image: prof_pic2.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office E18</p>
+    <p>Office 120</p>
     <p>Scheinerstr. 1</p>
     <p>Munich, Germany</p>
 
@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 I am a PhD candidate at the USM in Munich, working with cosmological MHD simulations.
 My main interest is in non-thermal processes in galaxy clusters: Cosmic Rays, Magnetic Fields and Turbulence.
 
-I develop the Cosmic Ray model [**CRESCENDO**](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..548B/abstract) for the cosmological Tree-SPH Code **OpenGadget3**.
+I develop the Cosmic Ray model [CRESCENDO](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..548B/abstract) for the cosmological Tree-SPH Code **OpenGadget3**.
 
 Most of the time I run and analyze my own simulations for which I developed a number of open source [Software](/repositories/) tools.
 
