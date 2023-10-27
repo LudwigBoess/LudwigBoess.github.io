@@ -66,12 +66,12 @@
   type: time_table
   contents:
     - title: GAUSS Large Scale Project (co-I)
-        institution: "The Local Universe: Galaxies, Clusters, The LSS and Cosmic Rays"
+        institution: The Local Universe - Galaxies, Clusters, The LSS and Cosmic Rays
         year: 2023
         items:
           - 69 Million CPUh 
     - title: C2PAP Computing Grant (PI)
-      institution: "Galaxy Clusters with Spectral Cosmic Rays"
+      institution: Galaxy Clusters with Spectral Cosmic Rays
       year: 2022
       items:
         - 6.5 Million CPUh 
