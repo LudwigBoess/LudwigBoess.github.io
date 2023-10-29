@@ -6,8 +6,9 @@ github_repos:
   - LudwigBoess/GadgetUnits.jl
   - LudwigBoess/SPHKernels.jl
   - LudwigBoess/SPHtoGrid.jl
-  - LudwigBoess/DSAModels.jl
+  - LudwigBoess/DiffusiveShockAccelerationModels.jl
   - LudwigBoess/SynchrotronKernel.jl
 
 publication_repos:
   - LudwigBoess/2207.05087
+  - LudwigBoess/2309.00046

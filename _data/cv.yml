@@ -16,7 +16,7 @@
       year: 2020 -  now
       description:
         - Thesis - Cosmic Rays, Turbulence and Magnetic Fields in Galaxy Clusters.
-        - Supervised by Prof. Dr. Harald Lesch and Dr. habil. Klaus Dolag
+        - Supervised by Prof. Dr. Harald Lesch and Prof. Dr. Klaus Dolag
     - title: Masters Degree - Astrophysics
       institution: Ludwig-Maximilians-Universität München, Germany
       year: 2017 - 2020
@@ -55,21 +55,14 @@
         - Development of an automated customer satisfaction survey (NPS) using SSIS and Python
         - Gathering and evaluating of key data concerning quality assurance, customer satisfaction and R&D
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/LudwigBoess/GadgetIO.jl">GadgetIO.jl</a>
-#       year: 2017-now
-#       description: Binary IO for the Tree-SPH code Gadget.
-
 - title: Computing time awarded
   type: time_table
   contents:
     - title: GAUSS Large Scale Project (co-I)
-        institution: The Local Universe - Galaxies, Clusters, The LSS and Cosmic Rays
-        year: 2023
-        items:
-          - 69 Million CPUh 
+      institution: 'The Local Universe - Galaxies, Clusters, The LSS and Cosmic Rays'
+      year: 2023
+      items:
+        - 69 Million CPUh 
     - title: C2PAP Computing Grant (PI)
       institution: Galaxy Clusters with Spectral Cosmic Rays
       year: 2022
