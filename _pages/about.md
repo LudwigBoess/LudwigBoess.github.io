@@ -21,13 +21,13 @@ social: true  # includes social icons at the bottom of the page
 ***
 
 I am a PhD candidate at the USM in Munich, working with cosmological MHD simulations.
-My main interest is in non-thermal processes in galaxy clusters: Cosmic Rays, Magnetic Fields and Turbulence.
+My main interest lies in non-thermal processes in galaxy clusters: Cosmic Rays, Magnetic Fields and Turbulence.
 
 I develop the Cosmic Ray model [CRESCENDO](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..548B/abstract) for the cosmological Tree-SPH Code **OpenGadget3**.
 
 Most of the time I run and analyze my own simulations for which I developed a number of open source [Software](/repositories/) tools.
 
-However I am also part of the [Localization](https://localization.ias.universite-paris-saclay.fr) project where we study the local universe with state-of-the-art constrained initial conditions.
+I am also part of the [Localization](https://localization.ias.universite-paris-saclay.fr) project where we study the local universe with state-of-the-art constrained initial conditions.
 
 Aside from science I am an avid hiker. Luckily the alps are nearby!
 
