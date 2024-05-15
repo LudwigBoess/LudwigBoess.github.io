@@ -13,10 +13,10 @@
   contents:
     - title: PhD - Astrophysics
       institution: Ludwig-Maximilians-Universität München, Germany
-      year: 2020 -  now
+      year: 2020 - 2024
       description:
         - Thesis - Cosmic Rays, Turbulence and Magnetic Fields in Galaxy Clusters.
-        - Supervised by Prof. Dr. Harald Lesch and Dr. habil. Klaus Dolag
+        - Supervised by Prof. Dr. Harald Lesch and Prof. Dr. Klaus Dolag
     - title: Masters Degree - Astrophysics
       institution: Ludwig-Maximilians-Universität München, Germany
       year: 2017 - 2020
@@ -37,9 +37,15 @@
         - Thesis - Witold Lutoslawski’s Concerto for Orchestra in the context of Socialist Realism
         - Supervised by Prof. Dr. Wolfgang Rathert
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: Ludwig-Maximilians-Universität München, Germany
+      year: 2024 - now
+      description:
+        - Independent Research
+        - Student Supervision
     - title: Connector Manager
       institution: Excellence Cluster ORIGINS, Turbulence Connector
       year: 2023 - now

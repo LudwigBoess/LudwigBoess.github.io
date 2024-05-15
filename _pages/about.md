@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate, <a href='https://www.usm.uni-muenchen.de/'>Universitäts-Sternwarte München</a>
+subtitle: Postdoctoral Researcher, <a href='https://www.usm.uni-muenchen.de/'>Universitäts-Sternwarte München</a>
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 ***
 
-I am a PhD candidate at the USM in Munich, working with cosmological MHD simulations.
+I am a Postdoctoral Researcher at the USM in Munich, working with cosmological MHD simulations.
 My main interest lies in non-thermal processes in galaxy clusters: Cosmic Rays, Magnetic Fields and Turbulence.
 
 I develop the Cosmic Ray model [CRESCENDO](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..548B/abstract) for the cosmological Tree-SPH Code **OpenGadget3**.
