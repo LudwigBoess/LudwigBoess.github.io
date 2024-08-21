@@ -71,6 +71,11 @@
 - title: Computing time awarded
   type: time_table
   contents:
+    - title: GCS Project (PI)
+      institution: Simulations of Cosmic Rays in Galaxy Clusters at Unprecedented Resolution
+      year: 2024
+      items:
+        - 29 Million CPUh
     - title: GAUSS Large Scale Project (co-I)
       institution: The Local Universe - Galaxies, Clusters, The LSS and Cosmic Rays
       year: 2023
