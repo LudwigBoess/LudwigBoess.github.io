@@ -41,14 +41,19 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher
+      institution: University of Chicago, Chicago, USA
+      year: 2025 - now
+      description:
+        - Independent Research
+    - title: Postdoctoral Researcher
       institution: Ludwig-Maximilians-Universität München, Germany
-      year: 2024 - now
+      year: 2024
       description:
         - Independent Research
         - Student Supervision
     - title: Connector Manager
       institution: Excellence Cluster ORIGINS, Turbulence Connector
-      year: 2023 - now
+      year: 2023 - 2024
       description:
         - Organisation of monthly collaboration meeting
         - Summary of ongoing projects for scientific outreach

@@ -81,7 +81,7 @@ I am currently working on the related publication where I study the time evoltio
     </div>
 </div>
 <div class="caption">
-    Full-Sky projection of CR electron energy density in the energy range E = [5, 500] MeV in the Local Universe Simulations <a href="https://ui.adsabs.harvard.edu/abs/2023arXiv231013734B/abstract">(Böss et. al. (2023c)</a>).
+    Full-Sky projection of CR electron energy density in the energy range E = [5, 500] MeV in the Local Universe Simulations <a href="https://ui.adsabs.harvard.edu/abs/2024A%26A...692A.232B/abstract">(Böss et. al. (2024)</a>).
 </div>
 
 As part of the [Localization](https://localization.ias.universite-paris-saclay.fr) project we performed a simulation of a $L \sim 740$ Mpc box with constrained initial conditions, which contains my CR model.
