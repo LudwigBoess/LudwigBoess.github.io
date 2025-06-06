@@ -29,4 +29,6 @@ Most of the time I run and analyze my own simulations for which I developed a nu
 
 I am also part of the [Localization](https://localization.ias.universite-paris-saclay.fr) project where we study the local universe with state-of-the-art constrained initial conditions.
 
+Recently I joined the development team of [entity](https://github.com/entity-toolkit/entity), a particle-in-cell (PIC) code built for exa-scale computing.
+
 Before I went into Astrophysics I was a hobby musician, playing mainly progressive rock (you can listen to one album on [Spotify](https://open.spotify.com/artist/6bg7Ttn08YcNg55pxQz5Fr?si=daKM9MiqQpWzGMDRUThUrw)!)

@@ -8,6 +8,8 @@ github_repos:
   - LudwigBoess/SPHtoGrid.jl
   - LudwigBoess/DiffusiveShockAccelerationModels.jl
   - LudwigBoess/SynchrotronKernel.jl
+  - entity-toolkit/entity
+  - LudwigBoess/EntityTools.jl
 
 publication_repos:
   - LudwigBoess/2207.05087
