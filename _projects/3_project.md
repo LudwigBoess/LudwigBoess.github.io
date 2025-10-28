@@ -1,81 +1,62 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Turbulence
+description:
+img: assets/img/project_3/turbulence_cropped.png
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Injection of turbulence by merger shocks and its impact on re-acceleration of Cosmic Rays and amplification of magnetic fields
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+***
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_3/perseusvirgo.jpg" title="radio"class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Deep X-ray observations by <a href="https://chandra.harvard.edu/photo/2014/perseusvirgo/" target="_blank">Chandra</a> show shocks and gas sloshing in the Perseus cluster (left) and AGN jets in Virgo (right).
 </div>
+
+Galaxy clusters are highly dynamic systems with frequent mergers, accretion events abd episodes of feedback by AGN.
+This stirrs up the hot intra-cluster medium (ICM) and injects energy at the scale of several hundred of kpc.
+This energy is transported down to scales of the Lamour radius of the free electrons and protons in the plasma of the ICM following a turbulent cascade until it dissipates on these smallest scales.
+
+----
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project_3/turbulence.png" title="radio"class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_3/Eturb_evolution.png" title="radio"class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Left: A thin slice through the turbulent energy of the <a href="http://www.magneticum.org/complements.html#COMPASS" target="_blank">COMPASS</a> simulation set. Right: Time evolution of the total turbulent energy in the system for hot and cold gas.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+I work with state-of-the art MHD zoom-in simulations of galaxy clusters to study the injection, evolution and dissipation of turbulent energy.
+These ultra-high resolution simulations allow to study the role of turbulence even far outside the cluster center, as turbulence effects are resolution dependent.
+In addition to energy dissipation turbulence provides a non-thermal pressure component.
+This pressure component is found to be overestimated in most simulations (see [Sayers et. al. (2021)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.4338S/abstract)).
+We find that with the high resolution of the [COMPASS](http://www.magneticum.org/complements.html#COMPASS) set the non-thermal pressure support agrees well with observations (Böss et. al. *(in prep)*).
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+----
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/project_3/dynamo.png" title="radio"class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Phase-space diagram showing the effect of magnetic field amplification by the turbulent dynamo. For details see <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...933..131S/abstract">Steinwandel et. al. (2022)</a>.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Another effect turbulence has on galaxy clusters is the amplification of magnetic fields via the **turbulent dynamo**.
+In this process magnetic field lines are stretched, bent and folded by turbulent motion of the plasma.
+This amplifies the magnetic field exponentially over a timescale of only a few hundres of million years until the turbulent dynamo saturates.
+To study this effect in simulations I contributed to the work by [Steinwandel et. al. (2022)](https://ui.adsabs.harvard.edu/abs/2022ApJ...933..131S/abstract) where we studied the impact of resolution in the turbulent dynamo and the amplification of the magnetic field.
+For this worked we used the open source software packages I developed for work with our simulation code *OpenGadget3*, which you can find in the [Software](/repositories/) page of this website.

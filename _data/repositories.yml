@@ -1,14 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - LudwigBoess
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - LudwigBoess/GadgetIO.jl
+  - LudwigBoess/GadgetUnits.jl
+  - LudwigBoess/SPHKernels.jl
+  - LudwigBoess/SPHtoGrid.jl
+  - LudwigBoess/DiffusiveShockAccelerationModels.jl
+  - LudwigBoess/SynchrotronKernel.jl
+  - entity-toolkit/entity
+  - LudwigBoess/EntityTools.jl
+
+publication_repos:
+  - LudwigBoess/2207.05087
+  - LudwigBoess/2309.00046
+  - LudwigBoess/2310.13734
+  - LudwigBoess/2510.15634

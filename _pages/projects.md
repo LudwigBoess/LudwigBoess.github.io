@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: I work in computational astrophysics, my research is mainly focused on three key points
 nav: true
 nav_order: 3
 display_categories: [work, fun]
