@@ -25,6 +25,8 @@ My main interest lies in non-thermal processes in galaxy clusters: Cosmic Rays, 
 
 I develop the Cosmic Ray model [CRESCENDO](https://ui.adsabs.harvard.edu/abs/2023MNRAS.519..548B/abstract) for the cosmological Tree-SPH Code **OpenGadget3**.
 
+Recently I joined the development team of [entity](https://github.com/entity-toolkit/entity), a particle-in-cell (PIC) code built for exa-scale computing.
+
 Most of the time I run and analyze my own simulations for which I developed a number of open source [Software](/repositories/) tools.
 
 I am also part of the [Localization](https://localization.ias.universite-paris-saclay.fr) project where we study the local universe with state-of-the-art constrained initial conditions.
