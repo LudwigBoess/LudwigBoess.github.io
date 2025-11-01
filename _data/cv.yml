@@ -4,9 +4,9 @@
     - name: Full Name
       value: Ludwig Maximilian Böss
     - name: Date of Birth
-      value: 4th October 1991
+      value: October 4th, 1991
     - name: Languages
-      value: German, English, French, Italian
+      value: German, English, French
 
 - title: Academic Positions
   type: time_table
@@ -29,7 +29,7 @@
       institution: Ludwig-Maximilians-Universität München, Germany
       year: 2020 - 2024
       description:
-        - Thesis - Cosmic Rays, Turbulence and Magnetic Fields in Galaxy Clusters.
+        - Thesis - On Simulations of Cosmic Rays in the Large-Scale Structure of the Universe.
         - Supervised by Prof. Dr. Harald Lesch and Prof. Dr. Klaus Dolag
     - title: Masters Degree - Astrophysics
       institution: Ludwig-Maximilians-Universität München, Germany

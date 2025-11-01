@@ -41,11 +41,15 @@ The central part of my research revolves around implementing an on-the-fly Fokke
 A Fokker-Planck equation describes how a distribution function evolves in time.
 In the case of CRs the time evolution of a population of electrons or protons can be described by the *Diffusion-Advection Equation*
 
-$$ \frac{D f(p,\mathbf{x},t)}{Dt} = \nabla \left( \kappa(p) \nabla f(p,\mathbf{x},t) \right) $$
-$$ + \left( \frac{1}{3} \nabla \cdot \mathbf{u} \right) p \frac{\partial f(p,\mathbf{x},t)}{\partial p} $$
-$$ + \frac{1}{p^2} \frac{\partial}{\partial p } \left( p^2 \left[ \sum_l b_l f(p,\mathbf{x},t) + D_{\mathrm{pp}} \frac{\partial f(p,\mathbf{x},t)}{\partial p} \right] \right) $$
-$$ - \frac{f(p,\mathbf{x},t)}{t_c(p)} $$
-$$ + j(\mathbf{x}, p, t) $$
+$$
+\begin{align}
+\frac{D f(p,\mathbf{x},t)}{Dt} ={}& \nabla \left( \kappa(p) \nabla f(p,\mathbf{x},t) \right) \\
+&+ \left( \frac{1}{3} \nabla \cdot \mathbf{u} \right) p \frac{\partial f(p,\mathbf{x},t)}{\partial p} \\
+&+ \frac{1}{p^2} \frac{\partial}{\partial p } \left( p^2 \left[ \sum_l b_l f(p,\mathbf{x},t) + D_{\mathrm{pp}} \frac{\partial f(p,\mathbf{x},t)}{\partial p} \right] \right) \\
+&- \frac{f(p,\mathbf{x},t)}{t_c(p)} \\
+&+ j(\mathbf{x}, p, t)
+\end{align}
+$$
 
 where the terms describe
 
