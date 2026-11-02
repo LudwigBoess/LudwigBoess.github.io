@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "I work in computational astrophysics, my research is mainly focused on three key points.",
+          description: "I work in computational astrophysics, my research is mainly focused on four key points.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
