@@ -5,7 +5,6 @@ description:
 img: assets/img/project_4/turbulence_jz_cropped.png
 importance: 4
 category: work
-github: https://github.com/entity-toolkit/entity
 ---
 
 **Entity** - *A hardware-agnostic Particle-in-Cell code for plasma astrophysics*
