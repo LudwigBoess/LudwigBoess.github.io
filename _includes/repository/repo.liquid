@@ -34,14 +34,11 @@
 <div class="repo p-2 text-center">
   <a href="https://github.com/{{ include.repository }}">
     <img
-      class="only-light w-100"
+      class="w-100"
       alt="{{ include.repository }}"
-      src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
+      src="{{ site.external_services.github_readme_stats_url }}/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
+      onerror="this.classList.add('d-none'); this.nextElementSibling.classList.remove('d-none');"
     >
-    <img
-      class="only-dark w-100"
-      alt="{{ include.repository }}"
-      src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
-    >
+    <span class="repo-fallback d-none"><i class="fa-brands fa-github"></i> {{ include.repository }}</span>
   </a>
 </div>

@@ -21,14 +21,11 @@
 <div class="repo p-2 text-center">
   <a href="https://github.com/{{ include.username }}">
     <img
-      class="only-light w-100"
+      class="w-100"
       alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_icons=true"
+      src="{{ site.external_services.github_readme_stats_url }}/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_icons=true"
+      onerror="this.classList.add('d-none'); this.nextElementSibling.classList.remove('d-none');"
     >
-    <img
-      class="only-dark w-100"
-      alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_icons=true"
-    >
+    <span class="repo-fallback d-none"><i class="fa-brands fa-github"></i> {{ include.username }}</span>
   </a>
 </div>

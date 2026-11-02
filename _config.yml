@@ -34,6 +34,9 @@ back_to_top: false # set to false to disable the back to top button
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+external_services:
+  # the public github-readme-stats.vercel.app instance is paused (503 DEPLOYMENT_PAUSED), use the maintained fork
+  github_readme_stats_url: https://github-stats-extended.vercel.app # https://github.com/stats-organization/github-stats-extended
 repo_trophies:
   enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy

@@ -543,6 +543,16 @@ footer.sticky-bottom {
   }
 }
 
+// Shown in place of a repo card when the stats service is unavailable.
+.repo-fallback {
+  display: block;
+  padding: 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 6px;
+  background-color: var(--global-card-bg-color);
+  color: var(--global-text-color);
+}
+
 // Blog
 
 .header-bar {
